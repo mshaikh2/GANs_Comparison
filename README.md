@@ -1,4 +1,4 @@
-# Keras GAN for MNIST
+# BASIC Comparision GAN for MNIST using Convnet and Neuralnet
 
 Simple and straightforward Generative Adverserial Network (GAN) implementations using the [Keras](https://keras.io/ "Keras") library.  
 Several of the tricks from [ganhacks](https://github.com/soumith/ganhacks) have already been implemented.
