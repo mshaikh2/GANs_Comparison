@@ -25,7 +25,7 @@ Each epoch takes around 15 seconds.
 
 Graph of Loss over 200 epochs
 
-![Graph2](/images/gan_cnn/gan_neural_loss.png?raw=true "Graph of the loss over 200 epochs")
+![Graph2](/images/gan_neuralnet/gan_neural_loss.png?raw=true "Graph of the loss over 200 epochs")
 
 ## Libraries
 Tensorflow
