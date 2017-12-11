@@ -1,4 +1,4 @@
-# BASIC Comparision GAN for MNIST using Convnet and Neuralnet
+# MNIST reconstruction using Convnet, Neuralnet and CapsuleNets
 
 
 ## Deep Convolutionalnet GAN
