@@ -35,21 +35,21 @@ Each epoch takes around 55 mins seconds.
 ![Graph3](/images/capsulenet/capsnet_graph.jpg?raw=true "Graph of the loss and accuracy over 9 epochs")
 
 ## Libraries
-> Tensorflow
-> Keras
-> openCV
-> PIL
-> numpy
+* Tensorflow
+* Keras
+* openCV
+* PIL
+* numpy
 
 ## Refrences
-#### [1] GANs, https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf
-#### [2] https://www.oreilly.com/learning/generative-adversarial-networks-for-beginners
-#### [3] https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f
-#### [4] https://jhui.github.io/2017/11/03/Dynamic-Routing-Between-Capsules/
-#### [5] https://kndrck.co/posts/capsule_networks_explained/
-#### [6] https://ctmakro.github.io/site/on_learning/fast_gan_in_keras.html
-#### [7] Overview of GANs, https://arxiv.org/pdf/1710.07035.pdf
-#### [8] Capsule Nets, https://arxiv.org/pdf/1710.09829.pdf
-#### [9] https://github.com/XifengGuo/CapsNet-Keras
+* GANs, https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf
+* https://www.oreilly.com/learning/generative-adversarial-networks-for-beginners
+* https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f
+* https://jhui.github.io/2017/11/03/Dynamic-Routing-Between-Capsules/
+* https://kndrck.co/posts/capsule_networks_explained/
+* https://ctmakro.github.io/site/on_learning/fast_gan_in_keras.html
+* Overview of GANs, https://arxiv.org/pdf/1710.07035.pdf
+* Capsule Nets, https://arxiv.org/pdf/1710.09829.pdf
+* https://github.com/XifengGuo/CapsNet-Keras
 
     
