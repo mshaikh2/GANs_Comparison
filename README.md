@@ -35,11 +35,11 @@ Each epoch takes around 55 mins seconds.
 ![Graph3](/images/capsulenet/capsnet_graph.jpg?raw=true "Graph of the loss and accuracy over 9 epochs")
 
 ## Libraries
-#### Tensorflow
-#### Keras
-#### openCV
-#### PIL
-#### numpy
+> Tensorflow
+> Keras
+> openCV
+> PIL
+> numpy
 
 ## Refrences
 #### [1] GANs, https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf
