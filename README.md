@@ -32,7 +32,7 @@ Each epoch takes around 55 mins seconds.
 ![Images_generated_using_caps_net](/images/capsulenet/Selected/epochs.gif?raw=true "Images Generated using CapsNet")
 
 ### Graph of Loss over 9 epochs
-![Graph3](/images/capsulenet/capsnet_graph.jpg?raw=true "Graph of the loss and accuracy over 9 epochs")
+![Graph3](/images/capsulenet/capsnet_graph.jpg?raw=true "Graph of the loss and accuracy over 9 epochs" = 150x)
 
 ## Libraries
 * Tensorflow
