@@ -1,7 +1,7 @@
 # MNIST reconstruction using Convnet, Neuralnet and CapsuleNets
 
 
-## Deep Convolutionalnet GAN
+## Deep Convolutional GAN
 The below GIF displays the sample of images generated from epoch 1 to 50 at every 5 epochs.
 
 Conv layers enable GANs to generate better images much faster than neural net.
@@ -13,7 +13,7 @@ Each epoch takes around 60 seconds
 ### Graph of Loss over 50 epochs
 ![Graph1](/images/gan_cnn/conv_gan_loss.png?raw=true "Graph of the loss over 50 epochs")
 
-## Deep Neuralnet GAN
+## Deep Neural GAN
 The below GIF displays the sample of images generated from epoch 1 to 200 at every 20 epochs.
 
 Neural net enables GANs to generate decent images but after much longer training epochs.
